@@ -1,1 +1,2 @@
 This is FileB
+chages made to FileB
